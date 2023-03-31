@@ -1,0 +1,5 @@
+Студент
+Логин: MegaStudentSteve, Пароль: MegaStudentSteve
+
+Методист(Администратор)
+Логин: АдминМетодист, Пароль: password
