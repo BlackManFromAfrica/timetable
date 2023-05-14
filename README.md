@@ -1,5 +1,5 @@
 Проект на хакатон
-
+https://timetable-8zxi.onrender.com/
 frontend:
     npm i
     npm start
